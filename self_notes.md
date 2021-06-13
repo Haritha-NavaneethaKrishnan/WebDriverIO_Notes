@@ -30,5 +30,21 @@ Node.js is an open source, cross-platform runtime environment for server-side Ja
 
 
 
+####  A TypeScript program is composed of −
+
+* Modules
+* Functions
+* Variables
+* Statements and Expressions
+* Comments
+
+#### To know about Flags
+
+{% hint style="info" %}
+[https://www.tutorialspoint.com/typescript/typescript\_basic\_syntax.htm](https://www.tutorialspoint.com/typescript/typescript_basic_syntax.htm)
+{% endhint %}
+
+
+
 
 
