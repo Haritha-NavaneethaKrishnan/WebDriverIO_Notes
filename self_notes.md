@@ -44,6 +44,10 @@ Node.js is an open source, cross-platform runtime environment for server-side Ja
 [https://www.tutorialspoint.com/typescript/typescript\_basic\_syntax.htm](https://www.tutorialspoint.com/typescript/typescript_basic_syntax.htm)
 {% endhint %}
 
+#### Comment lines in Typescript
+
+// \[or\] /\* \*/
+
 
 
 
